@@ -1,3 +1,8 @@
 This is the test
 Leaning git command
+<<<<<<< Updated upstream
 learning git is so much fun
+=======
+I am leaning git and all its command and writing commands 
+
+>>>>>>> Stashed changes
